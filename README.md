@@ -10,7 +10,7 @@ In order to run the game, please CD into the directory in which the game .JAR fi
 ```shell
 java -jar Wordle.jar
 ```
-Please make sure that the words.txt file is present in the same directory that your .JAR file is in and that the file has not been modified. Additionally, please make sure that you have not renamed the .JAR file
+Please make sure that the words.txt file is present in the same directory that your .JAR file is in and that the file has not been modified. Additionally, please make sure that you have not renamed the .JAR file. You will also need to run this .JAR file in a terminal that supports colored text.
 ___
 Patch Notes:
 
